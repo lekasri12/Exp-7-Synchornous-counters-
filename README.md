@@ -51,38 +51,24 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 ### PROGRAM 
-/*
+
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-
-
-
-
-
+Developed by: LEKA SRI G
+RegisterNumber: 212223100025 
+![286807858-4d85de95-545b-4f99-8618-47fa95de3323](https://github.com/lekasri12/Exp-7-Synchornous-counters-/assets/149037427/f168e167-6182-4671-95f4-26d0d5167656)
+![286811619-c4f16a82-8f89-4304-9429-ba76f293534f](https://github.com/lekasri12/Exp-7-Synchornous-counters-/assets/149037427/0873df40-c5bc-46ca-8669-5586aa6b271f)
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+![286811767-e703b010-e180-43a4-b8bd-373bed0c43c7](https://github.com/lekasri12/Exp-7-Synchornous-counters-/assets/149037427/c8f314c7-a533-43d5-aa81-5015f7b13e12)
+![286811840-25ae01cd-e7c3-423d-8a51-cbe365f859f0](https://github.com/lekasri12/Exp-7-Synchornous-counters-/assets/149037427/a32cbb7c-cbd0-41eb-8d32-921d2c24a288)
 
-
-
-
-
-
-
-
-
-### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
+### TIMING DIGRAMS FOR COUNTER 
+![286811953-bd2a8b29-e52d-4ac8-b3bb-b85fdaeccc8d](https://github.com/lekasri12/Exp-7-Synchornous-counters-/assets/149037427/0d5fa1e2-b2e2-4f50-8b71-be560df84e0b)
+![286812000-ee63559a-4125-41ba-9977-cb8afbcc38f3](https://github.com/lekasri12/Exp-7-Synchornous-counters-/assets/149037427/401ba0d9-3739-49d3-bb15-d9bad76be6d0)
 
 ### TRUTH TABLE 
-
-
-
-
-
+![286807905-9f25cb1e-ae2b-4d47-b0d6-27320128726c](https://github.com/lekasri12/Exp-7-Synchornous-counters-/assets/149037427/80102e1f-1de7-4ff2-8c6b-acf19e8d4fe4)
+![286811697-b50afb73-d200-466b-ac22-2d844fec24f4](https://github.com/lekasri12/Exp-7-Synchornous-counters-/assets/149037427/4c8491ee-e0d0-4d19-86df-fc19f847ad11)
 
 ### RESULTS 
+Thus synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
